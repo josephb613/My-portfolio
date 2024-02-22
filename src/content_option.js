@@ -11,7 +11,7 @@ const introdata = {
         second: "I love solving difficult problems",
         third: "End I love Jesus",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "I build pixel-perfect, engaging, and accessible digital experiences.",
     // your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
@@ -64,24 +64,38 @@ const services = [{
 ];
 
 const dataportfolio = [{
-    img: "../assets/images/1.png",
-    description: "ville propre",
+    img: "assets/1.png",
+    description: "Clean City is the mockup of a website that I designed to promote the beauty of the city of Kinshasa ....",
+    techn1: "UI/UX",
+    techn2: "Remove BG",
+    techn3: "Figma",
     link: "https://www.figma.com/proto/SiHxUzmnK3VygvcP0Kt7Ra/Untitled?node-id=2-2&starting-point-node-id=2%3A2&mode=design&t=8curcDEmb5DjJhdV-1",
 },
 {
-    img: "",
+    img: "assets/2.png",
     description: "Plateforme Gouvernement",
+    // techn1: "1",
+    techn2: "pierre",
+    techn3: "papier",
     link: "https://www.figma.com/proto/8IML2rQgQjeIhyxAnFer7T/Plateforme-Gouv-Prov?node-id=232-2975&starting-point-node-id=232%3A2975&mode=design&t=kvJI904QuCkuHU8y-1",
 },
 {
     img: "",
     description: "arboreal impact",
+    // techn1: "",
+    techn2: "Remov BG",
+    techn3: "Figma",
     link: "#",
 },
 {
-    img: "",
-    description: "4",
-    link: "#",
+    img: "assets/3.png",
+    techn1: "UI/UX",
+    techn2: "Remove BG",
+    techn3: "Figma",
+
+    description: "Liesa Mboka is the first online tractor rental website in the Democratic Republic of Congo, offering an innovative solution to meet the growing needs of the country's agricultural sector. Our online platform allows farmers and anyone else to easily access a fleet of tractors for their farming operations.",
+
+    link: "https://www.figma.com/proto/EugvlA0M1reLoe8oRENLdk/Location-Tracteur?type=design&node-id=6-1275&t=MpDVIsvIVOueGnao-1&scaling=contain&page-id=0%3A1&starting-point-node-id=6%3A1275&mode=design",
 },
 {
     img: "",
