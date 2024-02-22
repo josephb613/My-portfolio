@@ -35,8 +35,8 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    /* background: var(--overlay-color); */
-    background-color: rgba(240, 248, 255, 0.851);
+    background: var(--overlay-color);
+    /* background-color: rgba(240, 248, 255, 0.851); */
     z-index: 1;
     display: flex;
     justify-content: center;

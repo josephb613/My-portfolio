@@ -16,6 +16,7 @@
         "typewriter-effect": "^2.18.2",
         "web-vitals": "^3.1.1"
     },
+    
     "scripts": {
         "start": "react-scripts start",
         "build": "react-scripts build",
@@ -42,4 +43,5 @@
             "last 1 safari version"
         ]
     }
+    
 }
