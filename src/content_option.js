@@ -12,7 +12,7 @@ const introdata = {
         third: "End I love Jesus",
     },
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    // your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
@@ -38,14 +38,14 @@ const worktimeline = [{
 
 const skills = [
 
-{
-    name: "Javascript",
-    value: undefined,
-},
-{
-    name: "React",
-    value: undefined,
-},
+    {
+        name: "Javascript",
+        value: undefined,
+    },
+    {
+        name: "React",
+        value: undefined,
+    },
 
 ];
 
@@ -64,71 +64,40 @@ const services = [{
 ];
 
 const dataportfolio = [{
-    img: "https://picsum.photos/400/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
+    img: "../assets/images/1.png",
+    description: "ville propre",
+    link: "https://www.figma.com/proto/SiHxUzmnK3VygvcP0Kt7Ra/Untitled?node-id=2-2&starting-point-node-id=2%3A2&mode=design&t=8curcDEmb5DjJhdV-1",
+},
+{
+    img: "",
+    description: "Plateforme Gouvernement",
+    link: "https://www.figma.com/proto/8IML2rQgQjeIhyxAnFer7T/Plateforme-Gouv-Prov?node-id=232-2975&starting-point-node-id=232%3A2975&mode=design&t=kvJI904QuCkuHU8y-1",
+},
+{
+    img: "",
+    description: "arboreal impact",
     link: "#",
 },
 {
-    img: "https://picsum.photos/400/800/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
+    img: "",
+    description: "4",
     link: "#",
 },
 {
-    img: "https://picsum.photos/400/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
+    img: "",
+    description: "5",
     link: "#",
 },
 {
-    img: "https://picsum.photos/400/600/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
+    img: "",
+    description: "6",
     link: "#",
-},
-{
-    img: "https://picsum.photos/400/300/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/700/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-
-{
-    img: "https://picsum.photos/400/600/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/300/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/550/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/700/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
+}
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
+    YOUR_EMAIL: "josephbasix@gmail.com",
+    YOUR_FONE: "+243 8127556655",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
@@ -138,9 +107,9 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
+    github: "https://github.com/josephb613",
     facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
+    linkedin: "https://www.linkedin.com/in/josephbasix/",
     twitter: "https://twitter.com",
 };
 export {
