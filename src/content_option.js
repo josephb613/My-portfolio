@@ -1,4 +1,4 @@
-const logotext = "Joseph 🚧 website under construction 🚧";
+const logotext = "Home 🚧 website under construction 🚧";
 const meta = {
     title: "Joseph basix",
     description: "I’m Joseph basix Full stack developer",
@@ -64,15 +64,15 @@ const skills = [
     },
     {
         name: "WordPress",
-        value: 90,
+        value: 60,
     },
     {
-        name: "CI/CD",
+        name: "UI/UX",
         value: 100,
     },
     {
         name: "Php",
-        value: 25,
+        value: 30,
     },
 
 ];
