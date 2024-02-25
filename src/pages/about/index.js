@@ -51,9 +51,13 @@ export const About = () => {
                     </tr>
                   );
                 })}
+
+
               </tbody>
+
             </table>
           </Col>
+
         </Row>
         <Row className="sec_sp">
           <Col lg="5">
@@ -65,7 +69,7 @@ export const About = () => {
                 <div key={i}>
                   <h3 className="progress-title">{data.name}</h3>
                   <div className="progress">
-                    <div
+                  <div
                       className="progress-bar"
                       style={{
                         width: `${data.value}%`,

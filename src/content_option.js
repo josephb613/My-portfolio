@@ -12,39 +12,67 @@ const introdata = {
         third: "End I love Jesus",
     },
     description: "I build pixel-perfect, engaging, and accessible digital experiences.",
-    // your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: "/assets/113.png",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "About my self",
+    aboutme: "Hello, I'm Joseph Basix, a passionate Full Stack developer. My expertise ranges from front-end to back-end development, allowing me to create robust and user-friendly web applications. Always keeping an eye on the latest technological trends, I strive to provide innovative and quality solutions. I greatly appreciate new collaboration opportunities. Feel free to contact me to discuss your projects or simply exchange ideas.",
 };
-const worktimeline = [{
-    jobtitle: "Designer of week",
-    where: "YAdfi",
-    date: "2020",
-},
-{
-    jobtitle: "Designer of week",
-    where: "Jamalya",
-    date: "2019",
-},
-{
-    jobtitle: "Designer of week",
-    where: "ALquds",
-    date: "2019",
-},
+
+
+
+const worktimeline = [
+
+
+    {
+        jobtitle: "Designer of week",
+        where: "Kadea Academy",
+        date: "2023",
+    },
+    {
+        jobtitle: "Senior UI/UX Designer",
+        where: "TechSolutions Inc.",
+        date: "2023",
+    },
+    {
+        jobtitle: "Frontend Developer",
+        where: "Newtech",
+        date: "2023",
+    },
+    {
+        jobtitle: "Junior Software Engineer",
+        where: "WebWorks Ltd.",
+        date: "2018",
+    }
+
 ];
 
 const skills = [
 
     {
         name: "Javascript",
-        value: undefined,
+        value: 60,
     },
     {
         name: "React",
-        value: undefined,
+        value: 70,
+    },
+    {
+        name: "Node js",
+        value: 50,
+    },
+    {
+        name: "WordPress",
+        value: 90,
+    },
+    {
+        name: "CI/CD",
+        value: 100,
+    },
+    {
+        name: "Php",
+        value: 25,
     },
 
 ];
