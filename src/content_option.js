@@ -74,7 +74,7 @@ const dataportfolio = [{
 {
     img: "assets/2.png",
     description: "Plateforme Gouvernement",
-    // techn1: "1",
+    techn1: "1",
     techn2: "pierre",
     techn3: "papier",
     link: "https://www.figma.com/proto/8IML2rQgQjeIhyxAnFer7T/Plateforme-Gouv-Prov?node-id=232-2975&starting-point-node-id=232%3A2975&mode=design&t=kvJI904QuCkuHU8y-1",
@@ -98,9 +98,12 @@ const dataportfolio = [{
     link: "https://www.figma.com/proto/EugvlA0M1reLoe8oRENLdk/Location-Tracteur?type=design&node-id=6-1275&t=MpDVIsvIVOueGnao-1&scaling=contain&page-id=0%3A1&starting-point-node-id=6%3A1275&mode=design",
 },
 {
-    img: "",
-    description: "5",
-    link: "#",
+    img: "assets/4.png",
+    techn1: "WordPress",
+    techn2: "Elementor",
+    techn3: "Figma",
+    description: "fondation vodacom",
+    link: "https://dev-vodacom-fondation-drc.pantheonsite.io/",
 },
 {
     img: "",
