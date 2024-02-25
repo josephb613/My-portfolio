@@ -27,7 +27,7 @@ export const Portfolio = () => {
 
                 <div className="content">
                   <p>{data.description}</p>
-                  {/* <a href={data.link}>view project</a> */}
+                  <a href={data.link}>view project</a>
                   <div className="d-flex gap-3 mt-10">
                     <p className="model_1">{data.techn1}</p>
                     <p className="model_1">{data.techn2}</p>

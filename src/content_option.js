@@ -1,4 +1,4 @@
-const logotext = "Joseph";
+const logotext = "Joseph 🚧 website under construction 🚧";
 const meta = {
     title: "Joseph basix",
     description: "I’m Joseph basix Full stack developer",
@@ -90,7 +90,7 @@ const dataportfolio = [{
 {
     img: "assets/3.png",
     techn1: "UI/UX",
-    techn2: "Remove BG",
+    techn2: "Maquette",
     techn3: "Figma",
 
     description: "Liesa Mboka is the first online tractor rental website in the Democratic Republic of Congo, offering an innovative solution to meet the growing needs of the country's agricultural sector. Our online platform allows farmers and anyone else to easily access a fleet of tractors for their farming operations.",
@@ -102,25 +102,43 @@ const dataportfolio = [{
     techn1: "WordPress",
     techn2: "Elementor",
     techn3: "Figma",
-    description: "fondation vodacom",
+    description: "Fondation vodacom",
     link: "https://dev-vodacom-fondation-drc.pantheonsite.io/",
 },
 {
+    img: "/assets/5.png",
+    techn1: "Javascript",
+    techn2: "Bootstrap",
+    techn3: "Jquery",
+    description: "Marcel Okitoshudi CEO of Afyabaïta ",
+    link: "https://afyabait.netlify.app/",
+}, {
+    img: "/assets/6.png",
+    techn1: "Javascript",
+    techn2: "Bootstrap",
+    techn3: "Jquery",
+    description: "E-justice",
+    link: "https://legaljusticefr.netlify.app/",
+},
+{
     img: "",
-    description: "6",
-    link: "#",
+    techn1: "WordPress",
+    techn2: "Elementor",
+    techn3: "WooCommerce",
+    description: "Orphelinat Chero ",
+    link: "https://dev-chero-rdc.pantheonsite.io/",
 }
 ];
 
 const contactConfig = {
     YOUR_EMAIL: "josephbasix@gmail.com",
     YOUR_FONE: "+243 8127556655",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    description: "Feel free to reach out to discuss your projects, ask questions, or just say hello. I'm always open to new opportunities and exciting collaborations.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "service_lz6lzff",
+    YOUR_TEMPLATE_ID: "template_8wgbzbq",
+    YOUR_USER_ID: "0u7RiUxVGCwC1T94w",
 };
 
 const socialprofils = {
