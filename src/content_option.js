@@ -31,7 +31,7 @@ const worktimeline = [
         date: "2023",
     },
     {
-        jobtitle: "Senior UI/UX Designer",
+        jobtitle: "UI/UX Designer",
         where: "TechSolutions Inc.",
         date: "2023",
     },
@@ -68,7 +68,7 @@ const skills = [
     },
     {
         name: "UI/UX",
-        value: 100,
+        value: 69,
     },
     {
         name: "Php",
@@ -162,8 +162,6 @@ const contactConfig = {
     YOUR_EMAIL: "josephbasix@gmail.com",
     YOUR_FONE: "+243 8127556655",
     description: "Feel free to reach out to discuss your projects, ask questions, or just say hello. I'm always open to new opportunities and exciting collaborations.",
-    // creat an emailjs.com account 
-    // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_lz6lzff",
     YOUR_TEMPLATE_ID: "template_8wgbzbq",
     YOUR_USER_ID: "0u7RiUxVGCwC1T94w",
