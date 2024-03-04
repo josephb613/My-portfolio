@@ -121,7 +121,7 @@ const dataportfolio = [{
     techn2: "Maquette",
     techn3: "Figma",
 
-    description: "Liesa Mboka is the first online tractor rental website in the Democratic Republic of Congo, offering an innovative solution to meet the growing needs of the country's agricultural sector. Our online platform allows farmers and anyone else to easily access a fleet of tractors for their farming operations.",
+    description: "Liesa Mboka is the first online tractor rental website in the Democratic Republic of Congo.",
 
     link: "https://www.figma.com/proto/EugvlA0M1reLoe8oRENLdk/Location-Tracteur?type=design&node-id=6-1275&t=MpDVIsvIVOueGnao-1&scaling=contain&page-id=0%3A1&starting-point-node-id=6%3A1275&mode=design",
 },

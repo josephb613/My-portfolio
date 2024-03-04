@@ -15,6 +15,7 @@ completedColumns:
 - [icon-navbar](tasks/icon-navbar.md)
 - [feature-portfolio](tasks/feature-portfolio.md)
 - [migrer-de-create-react-app-vers-vite](tasks/migrer-de-create-react-app-vers-vite.md)
+- [effet-sur-les-card-squellette](tasks/effet-sur-les-card-squellette.md)
 
 ## Todo
 
