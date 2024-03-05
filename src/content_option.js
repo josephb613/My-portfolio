@@ -1,4 +1,4 @@
-const logotext = "Home 🚧 website under construction 🚧";
+const logotext = "Home 🚧 Construction 🚧";
 const meta = {
     title: "Joseph basix",
     description: "I’m Joseph basix Full stack developer",
