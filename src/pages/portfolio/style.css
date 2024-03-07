@@ -33,6 +33,7 @@
     /* height: 0;
     width: 0; */
     top: 50%;
+
     left: 50%;
     transform: translate(-50%, -50%);
     backdrop-filter: blur(5px);
@@ -43,7 +44,7 @@
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    height: 45.7vh !important;
+    height: 19.9rem !important;
     border-radius: 3px;
     width: 100% !important;
     transition: 0.3s ease-in-out;
@@ -54,6 +55,7 @@
 
 /* text */
 .po_item .content {
+
     opacity: 0;
     transition-delay: 1s;
     transition: 0.3s ease;
@@ -79,6 +81,7 @@
 }
 
 .po_item .content a {
+    color: black;
     /* background: var(--bg-color); */
     /* border: solid 1px var(--text-color); */
     padding: 4px 8px;

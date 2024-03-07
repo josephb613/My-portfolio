@@ -26,7 +26,7 @@ export const Portfolio = () => {
                 <img src={data.img} alt="" />
 
                 <div className="content">
-                  <p>{data.description}</p>
+                  <p className="text-black">{data.description}</p>
                   <a href={data.link}></a>
                   <div className="d-flex gap-3 mt-10">
                     <p className="model_1">{data.techn1}</p>
