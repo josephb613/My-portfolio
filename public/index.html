@@ -13,14 +13,22 @@
     <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,400;0,500;1,400;1,500&display=swap" rel="stylesheet">
     <a title="Google Analytics Alternative" href="https://clicky.com/101446857"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
     <!-- Matomo Tag Manager -->
+<!-- Matomo -->
 <script>
-    var _mtm = window._mtm = window._mtm || [];
-    _mtm.push({'mtm.startTime': (new Date().getTime()), 'event': 'mtm.Start'});
+    var _paq = window._paq = window._paq || [];
+    /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
     (function() {
+      var u="https://josephbasixtech.matomo.cloud/";
+      _paq.push(['setTrackerUrl', u+'matomo.php']);
+      _paq.push(['setSiteId', '1']);
       var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-      g.async=true; g.src='https://cdn.matomo.cloud/josephbasixtech.matomo.cloud/container_CjGOkMGj.js'; s.parentNode.insertBefore(g,s);
+      g.async=true; g.src='https://cdn.matomo.cloud/josephbasixtech.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
     })();
   </script>
+  <!-- End Matomo Code -->
+  
   <!-- End Matomo Tag Manager -->
 
 
